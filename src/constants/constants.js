@@ -3,13 +3,13 @@ export const contacts = [{
     lastName: "Стинсовський",
     phone: "+380956319521",
     gender: "male",
-    photo: "1.jpg"
+    photo: "zelya.jpg"
 }, {
     firstName: "Робін",
     lastName: "Щербатська",
     phone: "+380931460123",
     gender: "female",
-    photo: "3.jpg"
+    photo: "robin.jpg"
 }, {
     firstName: "Анонімний",
     lastName: "Анонімус",
@@ -20,17 +20,17 @@ export const contacts = [{
     lastName: "Олдровна",
     phone: "+380504691254",
     gender: "female",
-    photo: "2.jpg"
+    photo: "liliya.jpg"
 }, {
     firstName: "Маршен",
     lastName: "Еріксонян",
     phone: "+380739432123",
     gender: "male",
-    photo: "4.jpg"
+    photo: "marshen.jpg"
 }, {
     firstName: "Теодор",
     lastName: "Мотсбес",
     phone: "+380956319521",
     gender: "male",
-    photo: "5.jpg"
+    photo: "teodor.jpg"
 }];
