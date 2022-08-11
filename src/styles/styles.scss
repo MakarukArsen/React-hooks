@@ -5,69 +5,102 @@
     line-height: 1;
     font-size: 16px;
 }
-body{
+
+body {
     background-color: rgb(240, 240, 240);
     font-family: Arial, Helvetica, sans-serif;
     padding: 20px;
 }
-.App{
+
+.App {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.title{
+
+.title {
     font-size: 24px;
     margin-bottom: 15px;
 }
-.Contacts{
+
+.Contacts {
     width: 450px;
 }
-.form{
+
+.form {
     display: flex;
     align-items: center;
     margin-bottom: 25px;
     gap: 10px;
-    .search{
-        flex: 0 0 80%;
+
+    .search {
+        flex: 0 1 100%;
         height: 30px;
         padding-left: 10px;
     }
-    .checkbox{
+
+    .checkbox {
         display: flex;
         align-items: center;
-        svg{
+
+        svg {
             fill: black;
             transition: all 0.2s;
         }
-        input{
+
+        input {
             display: none;
         }
     }
-    .male-checkbox{
-        svg{
-            &:hover{
+
+    .male-checkbox {
+        svg {
+            &:hover {
                 cursor: pointer;
                 fill: blue;
             }
-            &[status]{
+
+            &[status] {
                 fill: blue;
             }
         }
     }
-    .female-checkbox{
-        svg{
-            &:hover{
+
+    .female-checkbox {
+        svg {
+            &:hover {
                 cursor: pointer;
                 fill: rgb(255, 119, 142);
             }
-            &[status]{
+
+            &[status] {
                 fill: rgb(255, 119, 142);
+            }
+        }
+    }
+
+    .undefined-checkbox {
+        svg {
+            &:hover {
+                cursor: pointer;
+                fill: green;
+            }
+
+            &[status] {
+                fill: green
             }
         }
     }
 }
 
-.Contact{
+.contact__list {}
+
+.noContacts {
+    font-size: 24px;
+    text-align: center;
+}
+
+.Contact {
     border-radius: 8px;
     padding: 10px;
     background-color: #fff;
@@ -76,20 +109,23 @@ body{
     align-items: center;
     gap: 20px;
 }
-.person-image{
+
+.person-image {
     object-fit: cover;
     width: 80px;
     height: 80px;
     border-radius: 50%;
 }
-.initials{
+
+.initials {
     display: flex;
     flex-direction: column;
     justify-content: center;
     gap: 5px;
     margin-right: auto;
 }
-.gender-icon{
+
+.gender-icon {
     object-fit: cover;
     width: 30px;
     height: 30px;
