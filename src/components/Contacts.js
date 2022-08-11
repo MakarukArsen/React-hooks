@@ -1,8 +1,8 @@
 import React, { useState } from "react";
+import { v4 } from "uuid";
 
 import { contacts } from "../constants/constants";
 import Contact from "./Contact";
-import { v4 } from "uuid";
 
 import MaleIcon from "./icons/MaleIcon";
 import FemaleIcon from "./icons/FemaleIcon";
