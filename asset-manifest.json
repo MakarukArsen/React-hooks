@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-hooks/static/css/main.285a6c80.css",
-    "main.js": "/React-hooks/static/js/main.d5b8b114.js",
-    "static/media/1.jpg": "/React-hooks/static/media/1.529295cbf03694486f92.jpg",
-    "static/media/2.jpg": "/React-hooks/static/media/2.f0c90c7ccc0d72645305.jpg",
-    "static/media/5.jpg": "/React-hooks/static/media/5.d1767d66d3b52875a18e.jpg",
+    "main.css": "/React-hooks/static/css/main.73797b23.css",
+    "main.js": "/React-hooks/static/js/main.b72f46ba.js",
+    "static/media/zelya.jpg": "/React-hooks/static/media/zelya.529295cbf03694486f92.jpg",
+    "static/media/liliya.jpg": "/React-hooks/static/media/liliya.f0c90c7ccc0d72645305.jpg",
+    "static/media/teodor.jpg": "/React-hooks/static/media/teodor.d1767d66d3b52875a18e.jpg",
     "static/media/undef.png": "/React-hooks/static/media/undef.a20be056f24d1ab8b354.png",
     "static/media/male.png": "/React-hooks/static/media/male.55cb1812eacd40829833.png",
     "static/media/anonymous.jpg": "/React-hooks/static/media/anonymous.8eab4f757b37a8998870.jpg",
-    "static/media/3.jpg": "/React-hooks/static/media/3.a7397f6ca992d54509ae.jpg",
+    "static/media/robin.jpg": "/React-hooks/static/media/robin.a7397f6ca992d54509ae.jpg",
     "static/media/female.png": "/React-hooks/static/media/female.49d855005aa3411d7b8c.png",
     "index.html": "/React-hooks/index.html",
-    "main.285a6c80.css.map": "/React-hooks/static/css/main.285a6c80.css.map",
-    "main.d5b8b114.js.map": "/React-hooks/static/js/main.d5b8b114.js.map"
+    "main.73797b23.css.map": "/React-hooks/static/css/main.73797b23.css.map",
+    "main.b72f46ba.js.map": "/React-hooks/static/js/main.b72f46ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.285a6c80.css",
-    "static/js/main.d5b8b114.js"
+    "static/css/main.73797b23.css",
+    "static/js/main.b72f46ba.js"
   ]
 }
